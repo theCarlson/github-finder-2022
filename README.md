@@ -17,4 +17,4 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 
 ### Vercel: 
-https://vercel.com/thecarlson/github-finder-2022 
+https://github-finder-2022.vercel.app/
