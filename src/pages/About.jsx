@@ -29,7 +29,7 @@ const About = () => {
         .
       </p>
       <p className='text-lg text-gray-400'>
-        Version <span className='text-gray'>1.0.0</span>
+        Version: 1.0.0 <span className='text-gray'>1.0.0</span>
       </p>
       <p className='text-lg text-gray-400'>
         Layout By:
